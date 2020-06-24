@@ -1,0 +1,2 @@
+ Stock details project is implemented using springboot and reactjs \Download the project from github repository \Go to project directory path \Execute mvn clean install \Open the browser and hit the url(http://localhost:8060 \Stock details information will be displayed
+ Stock details project is implemented using springboot and reactjs \Download the project from github repository \Go to project directory path \Execute mvn clean install \Open the browser and hit the url(http://localhost:8060 \Stock details information will be displayed
